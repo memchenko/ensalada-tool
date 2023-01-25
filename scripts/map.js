@@ -110,8 +110,8 @@ function MapWidget({ filters }) {
       }
 
       const el = document.createElement("div");
-      const markerImage = `url(/images/${marker.properties.label}.png)`;
-      const avatarImage = `url(/images/${marker.properties.avatar}.svg)`;
+      const markerImage = `url(images/${marker.properties.label}.png)`;
+      const avatarImage = `url(images/${marker.properties.avatar}.svg)`;
 
       el.className = "marker";
       el.style.backgroundImage = `${avatarImage}, ${markerImage}`;
