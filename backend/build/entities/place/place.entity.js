@@ -37,6 +37,14 @@ var Place = /** @class */ (function () {
         __metadata("design:type", Array)
     ], Place.prototype, "categories", void 0);
     __decorate([
+        (0, typeorm_1.Column)({ type: 'varchar', array: true, nullable: true }),
+        __metadata("design:type", Array)
+    ], Place.prototype, "subCategories", void 0);
+    __decorate([
+        (0, typeorm_1.Column)({ type: 'varchar', array: true, nullable: true }),
+        __metadata("design:type", Array)
+    ], Place.prototype, "photos", void 0);
+    __decorate([
         (0, typeorm_1.Column)({ type: 'numeric' }),
         __metadata("design:type", Number)
     ], Place.prototype, "latitude", void 0);

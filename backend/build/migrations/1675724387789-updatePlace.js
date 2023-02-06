@@ -1,16 +1,4 @@
 "use strict";
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (this && this.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-var __param = (this && this.__param) || function (paramIndex, decorator) {
-    return function (target, key) { decorator(target, key, paramIndex); }
-};
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
@@ -48,52 +36,42 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
     }
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.RecommendationsService = void 0;
-var common_1 = require("@nestjs/common");
-var typeorm_1 = require("@nestjs/typeorm");
-var isEmpty_1 = require("lodash/isEmpty");
-var typeorm_2 = require("typeorm");
-var place_1 = require("../../entities/place");
-var RecommendationsService = /** @class */ (function () {
-    function RecommendationsService(places) {
-        this.places = places;
+exports.updatePlace1675724387789 = void 0;
+var updatePlace1675724387789 = /** @class */ (function () {
+    function updatePlace1675724387789() {
+        this.name = 'updatePlace1675724387789';
     }
-    RecommendationsService.prototype.getPlaces = function (dto) {
+    updatePlace1675724387789.prototype.up = function (queryRunner) {
         return __awaiter(this, void 0, void 0, function () {
-            var categories, places;
             return __generator(this, function (_a) {
                 switch (_a.label) {
-                    case 0:
-                        categories = (0, isEmpty_1.default)(dto.categories)
-                            ? Object.values(place_1.Categories)
-                            : dto.categories;
-                        return [4 /*yield*/, this.places.find({
-                                where: {
-                                    categories: (0, typeorm_2.ArrayContains)(categories),
-                                },
-                            })];
+                    case 0: return [4 /*yield*/, queryRunner.query("ALTER TABLE \"place\" ADD \"subCategories\" varchar array")];
                     case 1:
-                        places = _a.sent();
-                        return [2 /*return*/, places];
+                        _a.sent();
+                        return [4 /*yield*/, queryRunner.query("ALTER TABLE \"place\" ADD \"photos\" varchar array")];
+                    case 2:
+                        _a.sent();
+                        return [2 /*return*/];
                 }
             });
         });
     };
-    RecommendationsService.prototype.createPlace = function (dto) {
-        return this.places.save(dto);
+    updatePlace1675724387789.prototype.down = function (queryRunner) {
+        return __awaiter(this, void 0, void 0, function () {
+            return __generator(this, function (_a) {
+                switch (_a.label) {
+                    case 0: return [4 /*yield*/, queryRunner.query("ALTER TABLE \"place\" DROP COLUMN \"photos\"")];
+                    case 1:
+                        _a.sent();
+                        return [4 /*yield*/, queryRunner.query("ALTER TABLE \"place\" DROP COLUMN \"subCategories\"")];
+                    case 2:
+                        _a.sent();
+                        return [2 /*return*/];
+                }
+            });
+        });
     };
-    RecommendationsService.prototype.removePlace = function (dto) {
-        if (dto.pwd === 1594826) {
-            return this.places.delete(dto.id);
-        }
-        return Promise.reject();
-    };
-    RecommendationsService = __decorate([
-        (0, common_1.Injectable)(),
-        __param(0, (0, typeorm_1.InjectRepository)(place_1.Place)),
-        __metadata("design:paramtypes", [typeorm_2.Repository])
-    ], RecommendationsService);
-    return RecommendationsService;
+    return updatePlace1675724387789;
 }());
-exports.RecommendationsService = RecommendationsService;
-//# sourceMappingURL=service.js.map
+exports.updatePlace1675724387789 = updatePlace1675724387789;
+//# sourceMappingURL=1675724387789-updatePlace.js.map

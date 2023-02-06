@@ -1,6 +1,6 @@
 import { IsString, ValidateIf, IsEnum, IsNumber } from 'class-validator';
 
-import { Categories } from '../../../entities/place';
+import { Categories, CafeCategories } from '../../../entities/place';
 
 export class CreatePlaceDTO {
   @IsString()
@@ -15,6 +15,14 @@ export class CreatePlaceDTO {
 
   @IsEnum(Categories)
   categories: Categories[];
+
+  @IsEnum(CafeCategories)
+  @ValidateIf((_, value) => value !== null)
+  subCategories: CafeCategories[] | null;
+
+  @IsString({ each: true })
+  @ValidateIf((_, value) => value !== null)
+  photos: string[] | null;
 
   @IsNumber()
   latitude: number;

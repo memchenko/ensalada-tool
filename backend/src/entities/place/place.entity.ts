@@ -6,7 +6,7 @@ import {
   UpdateDateColumn,
 } from 'typeorm';
 
-import { Categories } from './types';
+import { Categories, SubCategories } from './types';
 
 @Entity({ name: 'place' })
 export class Place {
@@ -27,6 +27,12 @@ export class Place {
 
   @Column({ type: 'varchar', array: true })
   categories: Categories[];
+
+  @Column({ type: 'varchar', array: true, nullable: true })
+  subCategories: SubCategories[];
+
+  @Column({ type: 'varchar', array: true, nullable: true })
+  photos: string[];
 
   @Column({ type: 'numeric' })
   latitude: number;

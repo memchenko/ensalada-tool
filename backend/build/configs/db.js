@@ -1,7 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var url = process.env.URL ||
-    'postgresql://pandora:0T_YXogxVHuiV2FdJnNbzQ@nutty-cricket-5919.7tc.cockroachlabs.cloud:26257/defaultdb?sslmode=verify-full';
+var url = process.env.URL;
 exports.default = (function () { return ({
     type: 'cockroachdb',
     url: url,

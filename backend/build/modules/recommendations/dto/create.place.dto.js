@@ -33,6 +33,16 @@ var CreatePlaceDTO = /** @class */ (function () {
         __metadata("design:type", Array)
     ], CreatePlaceDTO.prototype, "categories", void 0);
     __decorate([
+        (0, class_validator_1.IsEnum)(place_1.CafeCategories),
+        (0, class_validator_1.ValidateIf)(function (_, value) { return value !== null; }),
+        __metadata("design:type", Array)
+    ], CreatePlaceDTO.prototype, "subCategories", void 0);
+    __decorate([
+        (0, class_validator_1.IsString)({ each: true }),
+        (0, class_validator_1.ValidateIf)(function (_, value) { return value !== null; }),
+        __metadata("design:type", Array)
+    ], CreatePlaceDTO.prototype, "photos", void 0);
+    __decorate([
         (0, class_validator_1.IsNumber)(),
         __metadata("design:type", Number)
     ], CreatePlaceDTO.prototype, "latitude", void 0);

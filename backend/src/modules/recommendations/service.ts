@@ -1,11 +1,12 @@
 import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
+import isEmpty from 'lodash/isEmpty';
 import { Repository, ArrayContains } from 'typeorm';
 
 import { CreatePlaceDTO } from './dto/create.place.dto';
 import { GetPlacesDTO } from './dto/get.places.dto';
 import { RemovePlaceDTO } from './dto/remove.place.dto';
-import { Place } from '../../entities/place';
+import { Place, Categories } from '../../entities/place';
 
 @Injectable()
 export class RecommendationsService {
@@ -15,9 +16,13 @@ export class RecommendationsService {
   ) {}
 
   async getPlaces(dto: GetPlacesDTO) {
+    const categories = isEmpty(dto.categories)
+      ? Object.values(Categories)
+      : dto.categories;
+
     const places = await this.places.find({
       where: {
-        categories: ArrayContains(dto.categories),
+        categories: ArrayContains(categories),
       },
     });
 

@@ -1,6 +1,4 @@
-const url =
-  process.env.URL ||
-  'postgresql://pandora:0T_YXogxVHuiV2FdJnNbzQ@nutty-cricket-5919.7tc.cockroachlabs.cloud:26257/defaultdb?sslmode=verify-full';
+const url = process.env.URL;
 
 export default () => ({
   type: 'cockroachdb',
