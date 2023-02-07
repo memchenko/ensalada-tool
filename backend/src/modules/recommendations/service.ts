@@ -1,7 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
-import isEmpty from 'lodash/isEmpty';
-import { Repository, ArrayContains } from 'typeorm';
+import { Repository, ArrayOverlap } from 'typeorm';
 
 import { CreatePlaceDTO } from './dto/create.place.dto';
 import { GetPlacesDTO } from './dto/get.places.dto';
@@ -16,13 +15,14 @@ export class RecommendationsService {
   ) {}
 
   async getPlaces(dto: GetPlacesDTO) {
-    const categories = isEmpty(dto.categories)
-      ? Object.values(Categories)
-      : dto.categories;
+    const categories =
+      Array.isArray(dto.categories) && dto.categories.length > 0
+        ? dto.categories
+        : Object.values(Categories);
 
     const places = await this.places.find({
       where: {
-        categories: ArrayContains(categories),
+        categories: ArrayOverlap(categories),
       },
     });
 
