@@ -1,0 +1,797 @@
+[
+  {
+    "title": "Jon Cake",
+    "description": "Самые вкусные баскские чизкейки. Без преувеличения, от каждого кусочка достигается небольшой гастрономический оргазм.\n\nВ меню всегда есть фиксированный лист основных вкусов (рекомендую с козьим сыром, он самый интересный по моему мнению), и пара уникальных, которые они меняют каждую неделю/месяц.\n\nК самому месту очень часто очередь минут на 20-30, но есть лайфхак: у них на сайте (http://joncake.last.shop/) можно забронировать чизкейк заранее (как минимум за день) и потом прийти и забрать его без очереди.",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://g.page/Jon-Cake?share",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/fEkLyWpTp8JeWl_aQaR4ew/kw6ImZ-d1Qw5m0zkhvd0ZFLNXMVqvy7uGtPMfYz68hLdZW7jyEYFPodMzfZ3RtnUaCafNsf8PmwgeGmLVmT0ZLMBh-koLobDKW-k13ghILNlmFj-l-ruf_cTqVbPxR-8/DqV0_zMrkyRQUDDIW5fBLA_y26pwRrSuW48DNNfZZI0"
+    ],
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["☕️ Кофейня/кондитерская"],
+    "finalMapUrl": "https://www.google.com/search?q=Jon-Cake&ludocid=792783488706446674&source=g.page.share&ucbcb=1",
+    "coords": [41.3862937, 2.1812753]
+  },
+  {
+    "title": "SANTAGLORIA",
+    "description": "Самая вкусная кофейня-пекарня в Побленоу!\nБерегитесь! Лишние калории! :)",
+    "author": "Lena_ladnaya",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "Rambla del Poblenou, 57, 08005 Barcelona",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/DWW2PCvHvJSRf0eR7P9-7g/0wnXvFeZZ68h4la7Ye9EPhA6p9UEofhdcwY6Vl5-OwUwjo46p1m1XRMzlQf0m74nlJyfM_5Afm93Xcg53Zhm8Fanaz_TnenOh0JWWplLXzU/iOTxuzxi_kSwaYJ1eiDa30STqw-5ptdGfA0KLXt0tj0",
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/ccoJA9Pqk1IeMe4GVRYNFw/gIzBpcoQFGu5Q-yW0IRvuFx7D2cciFUP5DIgj4MwFQKSspMJlamq7HHyWEVvEzlQABD4-HWwqIQ0AHSXjSR9tUmuGGggUVKcIzDLSVQY_tA/oNzVkDplqIpxRPe3spoPVJ8Z1bcNiOjz3IzAn4pzKPg"
+    ],
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["☕️ Кофейня/кондитерская"],
+    "coords": [41.4004118, 2.1995573]
+  },
+  {
+    "title": "Silan",
+    "description": "Израильская (ближневосточная) кухня – пальчики оближешь! (причём буквально)\n\nИз личных рекомендаций вот такой сет прекрасен на двоих: хала (свежий румяный плотный белый хлеб с тыквенными семечками и семенами мака), deconstructed kebab (варёный фарш с соусом из тахини (пасты из кунжута), лука и йогурта, приправленный мятой) и шакшука (яйцо мешочком на большом количестве томатного соуса со специями). Но вообще, конечно, всё меню там очень хорошо.\n\nОчень приятный сервис и разумные цены.\n\nРебята вроде делают всё по кашруту, то есть вегетарианцам должно зайти как минимум половина меню. ",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://g.page/Silanbcn?share",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/ILzD2LT06W4o4fx7xzM93w/bKqQu_vVHvqgRQhIcFk6Y_Xgvl_3bpMxbA67vzoCty3XF7T3GTLpiI6ouv3ZhonoWt9lhst9g_KIkCgnR_FaArd4WZMuiSDRRescKXLsqzU/oi9ZNLPc-27oEMa0rF3wR91Coyy4dqApAHcqp3_jPwY"
+    ],
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🌯 Ближневосточная"],
+    "finalMapUrl": "https://www.google.com/search?q=Silanbcn&ludocid=6737666508402303835&source=g.page.share&ucbcb=1",
+    "coords": [41.3906647, 2.158814]
+  },
+  {
+    "title": "Three Marks Coffee",
+    "description": "Очень приятная кофейня с большим выбором разных кофе-напитков, приятным сервисом, хорошим внутренним пространством для работы (но очень сложно найти себе место, часто всё аншлагом) и возможностью купить зерно себе. Обжаривают сами, так что всё зерно всегда свежее.\n\nПомимо напитков есть небольшой выбор сладостей и гранолы на перекус.",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить", "💼 Для работы"],
+    "mapUrl": "https://g.page/threemarkscoffee?share",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/vCGFUXVYLnEjqv1K-tN_Sg/0DKSZ2UDH3GSBdQJJc_SiHpXT4mRgz6XlSRm2U1Woy6p24yWjHTxaUQvWh-yDphuTzWxDVt0GvxHDN7BqD3_DV5-U5XZlCsl7PSSUY5Z63BpTvGAvR9S3jIwIe_tSo74/tcuha6SFWRiAee_5JrX7V99OgJPItFQ8ky44DQc6khw"
+    ],
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["☕️ Кофейня/кондитерская"],
+    "finalMapUrl": "https://www.google.com/search?q=threemarkscoffee&ludocid=8375125500506661589&source=g.page.share&ucbcb=1",
+    "coords": [41.397245, 2.183157]
+  },
+  {
+    "title": "La Caravana",
+    "description": "Лучшее место с сирийской кухней в городе, по мнению моего коллеги-сирийца.\n\nПодают в основном шаверму и всё что с ней связано (с разными видами мяса, в разных обёртках и без них, вегетарианские опции с фалафелями разумеется тоже присутствуют), а также прочую ближневосточную кухню, вроде хумусов и кебабов. \n\nЕщё рекомендую взять к шаверме сирийский чай с разными травками, он бесподобен. ",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/1mJmNnQpVGm7WwJy5",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🌯 Ближневосточная"],
+    "finalMapUrl": "https://www.google.com/maps/place/La+Caravana/@41.399324,2.1571322,18z/data=!3m1!4b1!4m5!3m4!1s0x0:0x8cbf10ceb3cbcd49!8m2!3d41.399322!4d2.1582425?ucbcb=1",
+    "coords": [41.399324, 2.1571322]
+  },
+  {
+    "title": "FOC Barceloneta",
+    "description": "Можно сказать, единственное приличное заведение на променаде Барселонеты (который от одноимённой станции метро до пляжа).\n\nМесто специализируется на кухне Латинской Америки, то есть в меню тако, гуакамоле, аргентинский стейк (рекомендую!) и вино, и прочие яркие представители того континента.\n\nДовольно шустрый и приятный сервис и адекватные цены хорошо дополняют картину. Вечером и особенно в пятницу-субботу лучше бронировать столик заранее.",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://g.page/foc_barceloneta?share",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/rJkPYF0nA-5Iuf0NhLH9Sw/2xKY2Ukfc8GbSSj8XcLU_BoaGvRQ_VrMVuyGDhjdolP30QpGL7060_3x6WVSTMKlp8kJ71eI7LDlSaIFhXJzsnHHxFlsiY0cmM0SLLTSPsgGKNIg2BUor6fL3NLlzBWF/7kqWJ7_uz1e3UgJcv4MTnpVXqrRV3nNoqklwasAvwoM"
+    ],
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🌮 Латиноамериканская"],
+    "finalMapUrl": "https://www.google.com/search?q=foc_barceloneta&ludocid=10667916268698078571&source=g.page.share&ucbcb=1",
+    "coords": [41.3760997, 2.1891733]
+  },
+  {
+    "title": "Bubo Barcelona ",
+    "description": "Очень вкусненькие десерты, можно уложиться в евро 7",
+    "author": "Alexander_09_08",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/5PxmBNKVKjtR7nnp7",
+    "extraGrade": 4,
+    "extraKitchenOrFormat": ["☕️ Кофейня/кондитерская"],
+    "finalMapUrl": "https://www.google.com/maps/place/Bub%C3%B3+Barcelona+-+Pasteleria+-+Chocolate/@41.3831403,2.1796442,17z/data=!4m5!3m4!1s0x12a4a2fefe8d3007:0x97f26f7e6c2d7575!8m2!3d41.3831403!4d2.1818329?coh=164777&entry=tt&ucbcb=1",
+    "coords": [41.3831403, 2.1796442]
+  },
+  {
+    "title": "Perikete ",
+    "description": "Атмосферный тапас бар с висящим хамон над головой. 15 евро на человека ",
+    "author": "Alexander_09_08",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/d59oQcJTNVoXZqFs8",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/-Ig1hvm2ZE0DvrAH3oGkiQ/3xGogwPdMtQC1v_Vw0ZZ-3WELb34qb29uCr9wwEjewnUet4wkA9MjK7ccOj2LfTVKm9tBK5P0ZuiiukBdzhqu1zUdtpX-9vbzSqxZkux82A8bUoBbDNaOdXfFYxqS10cdBLA70g1YlMSrusHxQCeSg/y5HVndf9DeV3h8PIRw6MLCiHNMFVgflnaW4X0EglOJE",
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/hwf0dZVh6tOfFUYRTFKL1A/8gDi-gCaxVnW79UJzQhUQrwLrvvOk-iZIDE-kNc32kJkZjAO9Hsr9Iq7wJdt1jTMfF0T8BEysEaQT6Ffx2VWYHUek0Z8Bdt2fqlMur-WfLEsOIOJFaYusumEO1EeRP4ebBs0IX3t3OODwNCkHSsIGQ/eOEfTWlx_B9uXVCfsAJbUbGr097G6d-gYri8WMfksho",
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/pbyIINgwcA2tA3627Qim3g/p3ntt0OHwsnONlCzXpF4laRKUaW4F83514i3cj3dP-EQ2dpf37E4tZI_NNmoADOpcBx61ja02kMhV3tnNe-99jJfmGOIYKEePTrjLHI0sOF7ja0_KeNULD5gJjiFt6rKK0L8nNS8ffPsh4PhdD34cg/VQIQ72ZkxbiBkjpu8yCkIJ7GD78gywXYg3LMuKUW5sI"
+    ],
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🍢 Тапасы"],
+    "finalMapUrl": "https://www.google.com/maps/place/Perikete/@41.3813578,2.181286,17z/data=!3m2!4b1!5s0x12a4a3009c382a71:0x3ab05b2e5e08002a!4m5!3m4!1s0x12a4a2ffee45f80d:0x6da8c623580edf0d!8m2!3d41.3813538!4d2.1834747?coh=164777&entry=tt&ucbcb=1",
+    "coords": [41.3813578, 2.181286]
+  },
+  {
+    "title": "Kaitensushi He",
+    "description": "Азиатский безлимитный стол ,который крутится вдоль столов. Стоимость около 18 евро с напитком ",
+    "author": "Alexander_09_08",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/BfEpYxAQhXV6wuqF9",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/IlwRRx41s-Zm_3KNMnOu0w/qW7zZ7LrHJGVDS8dYaBvpP3imUn7W3A64VRxlfDWfoRAk1DXSt8YwfutS2gDRBSnbOezFl53uvFVouSWaVi1qnGQXJ9fmZ2zlu7czUC3rFE/VWDup49FAqhgRQ7EHHKXlHdbBvM6G0BlblrjmwCAsLc"
+    ],
+    "extraGrade": 4,
+    "extraKitchenOrFormat": ["🥢 Азиатская"],
+    "finalMapUrl": "https://www.google.com/maps/place/Kaitensushi+He/@41.3893474,2.1696544,16.96z/data=!4m5!3m4!1s0x12a4a3625b4228b1:0x7d55976bd52b770b!8m2!3d41.3893231!4d2.1718622?coh=164777&entry=tt&ucbcb=1",
+    "coords": [41.3893474, 2.1696544]
+  },
+  {
+    "title": "La Pachuka",
+    "description": "Мексиканский бар. Советую взять тарелку nachos la pachuca (огромная порция на двоих). Стоимость около 10 евро на человека с бокалом пива.",
+    "author": "Alexander_09_08",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/RVJWSpKZxrH9ozfe8",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/Ia5Lkd_HzGcNde4kdEtG9w/rE-lGo3On9CnqE7GPe_6qGAwmszYq8jyKZLR4IrNqbFJXobZbvmdQ6nBq3JqjWg890FW5hrTMb6_zHMpynjjbdlu0TyQLjnCZy17ueWERXHYPLiiQnHrP0XgzJzCRUllGhDEUIEyblOetJTsUqdweg/zHPT4jxRqbT_nKKmz6u358Vu09Za0qWNr-SX1XpaHGg"
+    ],
+    "extraGrade": 4,
+    "extraKitchenOrFormat": ["🌮 Латиноамериканская"],
+    "finalMapUrl": "https://www.google.com/maps/place/La+Pachuca/@41.3799477,2.1768962,17z/data=!3m1!4b1!4m5!3m4!1s0x12a4a35e3b69075f:0xef2393b3bc564068!8m2!3d41.3799995!4d2.1791278?coh=164777&entry=tt&ucbcb=1",
+    "coords": [41.3799477, 2.1768962]
+  },
+  {
+    "title": "Honest Greens",
+    "description": "Вкусная и полезная еда. Обед выйдет около 12 евро на человека. ",
+    "author": "Alexander_09_08",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "Их/5/ресторанов/в/городе",
+    "extraGrade": 4,
+    "extraKitchenOrFormat": ["🥬 Здоровая еда"],
+    "coords": [41.3875714, 2.1252948]
+  },
+  {
+    "title": "Bar Bar - The Indian Gastronomia",
+    "description": "Любителям индийской кухни идеально подойдет сет из 7 блюд за 30евро. (Напиток входит )",
+    "author": "Alexander_09_08",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/CqxZLeR6qp6UMRfs8",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/DRL5SOn3XoqJ9HjNYA0MUg/kjzCLEmDKhx8SRdYKE9G3x7IPwvxQtJ3claiX45RWDMQehzgXzJVLLdftuQ6S5TXe1T7ir8c0TFBlv8lFySsJtSCpizJLSOWJWBTpV9Tn6o/9iGXVomQrNgUlJSOchTxrC4EV5zKTwGExy7tWES3V2E"
+    ],
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🇮🇳 Индийская"],
+    "finalMapUrl": "https://www.google.com/maps/place/Bar+Bar+-+The+Indian+Gastronomia/@41.3920207,2.1527501,17z/data=!3m1!4b1!4m5!3m4!1s0x12a4a3b5131aa2db:0xfd09234e835a0d6d!8m2!3d41.3920167!4d2.1549388?coh=164777&entry=tt&ucbcb=1",
+    "coords": [41.3920207, 2.1527501]
+  },
+  {
+    "title": "Elsa y Fred ",
+    "description": "Уютный гастрономический бар с хорошим обслуживанием. Советую взять тартар из тунца.средний чек на двоих около 60 евро.",
+    "author": "Alexander_09_08",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/QpssNhfWGDZiRVdW8",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/oePQ-BbtHRrCurlRmGE01w/n4Sod413-fIL13oaxc_XmV-UUqadVDIorXmKzgFHkMJyTjjy0-5EDMSbWfXTi9R0H13FaaWeZ4xlY0v3sgPzD3rKr2aOVFcwLmaofxY3aLlXJI_CmfG8upz-Pps_-yfXMiFEqyYYogQf3QYLbFDLGw/a8yzC51Yl1F6LCBslivfmX4QOKMMpFNwSjcNrhhw2gY"
+    ],
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["👨‍🍳 Гастробар"],
+    "finalMapUrl": "https://www.google.com/maps/place/Elsa+y+Fred/@41.389793,2.1775603,17z/data=!4m5!3m4!1s0x12a4a2fca48ab135:0x17dabc200236e158!8m2!3d41.389793!4d2.179749?coh=164777&entry=tt&ucbcb=1",
+    "coords": [41.389793, 2.1775603]
+  },
+  {
+    "title": "Can Paixano",
+    "description": "Своеобразный бар, там имеется только кава  и закуски. Забронировать столик нельзя , очередь большая , лучше заранее приходить ,сидячих мест нету ,все стоят и болтают (это прям атмосферный ,но немного грязненький бар) ",
+    "author": "Alexander_09_08",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/YCix4gNnJQ4csbeV8",
+    "extraGrade": 4,
+    "extraKitchenOrFormat": ["🍷 Бар"],
+    "finalMapUrl": "https://www.google.com/maps/place/Can+Paixano/@41.3818121,2.1811821,17z/data=!3m2!4b1!5s0x12a4a28e4050d18b:0x5de256dc8cdb2869!4m5!3m4!1s0x12a4a2ffe9fe5b23:0xc8516ba7d49ce64d!8m2!3d41.3818081!4d2.1833708?coh=164777&entry=tt&ucbcb=1",
+    "coords": [41.3818121, 2.1811821]
+  },
+  {
+    "title": "Da nanni pizzaria ",
+    "description": "Шикарная итальянская пицца за 7-10 евро. 4 заведения (Борн, Готика, Побленоу)",
+    "author": "Alexander_09_08",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://www.google.com/maps/search/Da+nanni+pizzaria+/@41.3977214,2.1975347,15.98z",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🇮🇹 Итальянская"],
+    "finalMapUrl": "https://www.google.com/maps/search/Da+nanni+pizzaria+/@41.3977214,2.1975347,15.98z?ucbcb=1",
+    "coords": [41.3977214, 2.1975347]
+  },
+  {
+    "title": "El Nacional",
+    "description": "Внутри бывшей парковки расположился огромный фуд корт с едой и барами. По левой стороне можно найти классный и не дорогой бар.",
+    "author": "Alexander_09_08",
+    "categories": ["🎭 Культура", "🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/hbeqpgYuNmeFJJ4z5",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/KA5Lauhg8XqK5cha-YNdlw/n14T8eC_Fwt03Sbw4yjX5lZnEiw08qGkRkAJ1T0mzsVlt3WL-Ye2EQ63HOmqQPTOWW7C7xawfMTC-DMY9NrwCcicpAak4-IO8IYBsCWBqlaulHSPw6N_zY6uhGk0801rMlntU0ql-qB8DXur4eNaqw/ehHpkJcDysLbU2uMiP5MnCwqT0M1gUHeIFW3zNOzP40",
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/DaoepCYJO9dPC4aaU9BWXQ/Nb-_F87MhCnZbMsSIYMKkOWgFJc_0sfzA_gZQLCAZOpD8hZwR-GxoGQeutBTRiPIzicbChpZOo1meZUgMjpE4l-L9FpLe21HbpAyjNnYJvKv7os-WsPKQGvLfJkC8BIbuWntYvMcNZqoD-baOaspQQ/EYdwSfoHmRdmjZLC5wpXLO2jj0WlXBH7annCcCnxyCI"
+    ],
+    "extraGrade": 5,
+    "finalMapUrl": "https://www.google.com/maps/place/%D0%AD%D0%BB%D1%8C+%D0%9D%D0%B0%D1%81%D1%8C%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C/@41.390587,2.1662027,17z/data=!3m1!4b1!4m5!3m4!1s0x12a4a2f26e459133:0xaec7b1e0ea06b75!8m2!3d41.390583!4d2.1683914?coh=164777&entry=tt&ucbcb=1",
+    "coords": [41.390587, 2.1662027]
+  },
+  {
+    "title": "Federal Cafe Poblenou ",
+    "description": "Вкуснейшие завтраки в побленоу.",
+    "author": "Alexander_09_08",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/qP3NT5nuSqoEtz9y7",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🍳 Завтраки"],
+    "finalMapUrl": "https://www.google.com/maps/place/Federal+Cafe+Poblenou/@41.3989399,2.2023079,16.32z/data=!4m5!3m4!1s0x12a4a38d0df13245:0xe56b8f752ab91b46!8m2!3d41.399627!4d2.2057731?coh=164777&entry=tt&ucbcb=1",
+    "coords": [41.3989399, 2.2023079]
+  },
+  {
+    "title": "Patagonia Beef & Wine",
+    "description": "Аргентинский ресторан с несколькими видами стейка, от недорогих до премиальных. Ходили сюда с коллегой-аргентинцем, и он был очень доволен качеством мяса, отреза и прожарки.",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://g.page/patagoniabw?share",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/AtnHVYnKeO-qzGl3wTE8nA/TjlsWYjUPudIZ-vuf9fcI_X_SHIw6g0JOHsHgV4xvFOiXkP8g1nvKWFwBhsQk1f-WOH8Ob3qp-oA9PqG1a2eKO7Es6uewsoMHaQkuY3ANC4/-WkkanJKP7DuVmdoayxGLbB65FjUq7z2HpsNaF2Wm8I"
+    ],
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🌮 Латиноамериканская"],
+    "finalMapUrl": "https://www.google.com/search?q=patagoniabw&ludocid=607270744193824315&source=g.page.share&ucbcb=1",
+    "coords": [41.3910341, 2.1710211]
+  },
+  {
+    "title": "Tlaxcal Cantina & Taquería Gastronómica",
+    "description": "Одно из лучших заведений с мексиканской кухне по мнению коллеги-мексиканца. Были там несколько раз, восторгались разнообразием и полнотой вкуса тако, а также впервые попробовали и теперь не можем остановиться заказывать мичеладу (коктейль с основой из пива, с добавленными устричным соусом и томатным соком, подаётся в бокале сдобренным кисло-острой приправой по кромке)",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/YjR8wGF4DAcyxCQ58",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/PcuS1Rz3hq5n5luZOSLFig/2ytAj4ciiHvSPYo9FUgPuWrzpzytjZ6M1ros10rZh4StIrhuJSZakAhDUAqQ1akpEre0vYQCJTd5zP9wRHOvfgRKYvyM3m4uZ6H0YIqeQy794w6Hp9HIxrFwyB120bmq/n5hNufPHE44Q2TJjNpRZqbDYUgockmVG7f4_9wCv5_c"
+    ],
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🌮 Латиноамериканская"],
+    "finalMapUrl": "https://www.google.com/maps/place/Tlaxcal+Cantina+%26+Taquer%C3%ADa+Gastron%C3%B3mica/@41.3846039,2.1838272,18.92z/data=!4m5!3m4!1s0x12a4a2fe02a2d633:0x304828b2c27f8fb9!8m2!3d41.3849921!4d2.1843065?ucbcb=1",
+    "coords": [41.3846039, 2.1838272]
+  },
+  {
+    "title": "Yamane Born",
+    "description": "Уютная небольшая (максимум 8 посадочных мест) японская идзакая (семейный ресторанчик) с настоящими японцами в качестве хозяев и поваров. В целом опыт посещения этого места – как телепорт в Японию. И обстановка, и кухня, и музыка, и сервис – всё в точности как там.\n\nРекомендую брать меню от шефа, это не дёшево (самый простой вариант будет стоить 39 евро на человека), но вы точно этим наедитесь и каждое блюдо будет как надо.\n\nПрийти просто так нельзя, надо бронировать через форму онлайн. Минимум вдвоём, максимум вчетвером. Будьте аккуратны с вопросами про еду, так как хозяин очень переживает о том, что китайцы заапроприировали рынок японской кухни, и в целом что у людей нет в голове различия между Японией и Китаем (а она просто огромна, как на культурном, так и на гастрономическом уровнях, особенно если учитывать что они соседи)",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://g.page/yamanebarcelona?share",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/IwFH-hqmSjfxdQJSG3eVLw/ub1nuc1eNywXnsLVhDL-DMWo06vE_3QaMi__YlN56Ny0qWzNCYAmssxUzr0ZN_zMH6o3ytf5YpjTTdLM7qxKuysmtrf-FIavuW0xPDOn67E/ErDDcCuCdct7AmIS5x1hsusLaBoTE5TOHUzMG2HKnsc"
+    ],
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🥢 Азиатская"],
+    "finalMapUrl": "https://www.google.com/search?q=yamanebarcelona&ludocid=9889952759456786167&source=g.page.share&ucbcb=1",
+    "coords": [41.3867904, 2.1808691]
+  },
+  {
+    "title": "Syra Coffee",
+    "description": "Сетевая кофейня (больше 10 точек в городе). Основной фоку - кофе на вынос и продажа кофейных зерен. ",
+    "author": "aamik",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://www.google.com/maps/search/Syra+Coffee/@41.4060505,2.148485,13.86z",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/g-jaMevekkNTo7tQ6S8lDA/Z_qcWYup6wrK1BHKN6NpQdrCxNHszw7b6R4d2LxVyLfHZGxDEC6y2WhKt9RS0c9FF003xlJ3yr4qO75QIG0XVZvyERKAR1MALi6nNABclVzp-OubdpcwWkjeahpwxL6U/qOvI8llHojxTnCcf3m2Y-suuuvw8uhoXwfp_eNf2W7Q",
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/hDDmvSwsd2SGre3xaYQWXA/Evv9SeL5-KfUJp2_ecsIZywWV8oUaxf9dQ_LDKISn4FL4uILFcgJNZ4d8qVMakMjDmZbtQeelW50M2u2RO02SCJNn3gdvssLnpQy8p8vFc1FOMUWGn7qlRh7eHlYf1uV/UvGqRgbl3JDLpQlZYs5NbXeDq0QCw6xGqol5JzvO-FM"
+    ],
+    "extraGrade": 4,
+    "extraKitchenOrFormat": ["☕️ Кофейня/кондитерская"],
+    "finalMapUrl": "https://www.google.com/maps/search/Syra+Coffee/@41.4060505,2.148485,13.86z?ucbcb=1",
+    "coords": [41.4060505, 2.148485]
+  },
+  {
+    "title": "Ресторан Екатерина",
+    "description": "Делают правильный Оливье. Это важно )",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://www.google.com/maps?q=Ekaterina+Restaurante+ruso,+C.+del+Comte+Borrell,+129,+08015+Barcelona,+Spain&ftid=0x12a4a2627a1f30bb:0x32f2782f2203db1b&hl=en-RU&gl=ru&entry=gps&lucs=karto&g_ep=CAISBjYuNDQuNBgAINeCAyoFa2FydG8%3D&g_st=ic",
+    "extraGrade": 4,
+    "extraKitchenOrFormat": ["🇷🇺 Российская"],
+    "finalMapUrl": "https://www.google.com/maps?q=Ekaterina+Restaurante+ruso,+C.+del+Comte+Borrell,+129,+08015+Barcelona,+Spain&hl=en-RU&gl=ru&entry=gps&lucs=karto&g_ep=CAISBjYuNDQuNBgAINeCAyoFa2FydG8%3D&g_st=ic&ucbcb=1",
+    "coords": [41.380705, 2.157847]
+  },
+  {
+    "title": "Souvenir",
+    "description": "Кстати, кроме Екатерины есть ещё “Сувенир”, сам там не был, но говорят тоже годнота. Котлетки, борщ и оливье как надо (ну и всё остальное).",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://www.google.com/maps/place/Souvenir+Restaurante+Ruso/@41.3900849,2.1594174,16.64z/data=!4m5!3m4!1s0x12a4a28de444a0f3:0x130b46267890bd36!8m2!3d41.3902138!4d2.1601898",
+    "extraGrade": 4,
+    "extraKitchenOrFormat": ["🇷🇺 Российская"],
+    "finalMapUrl": "https://www.google.com/maps/place/Souvenir+Restaurante+Ruso/@41.3900849,2.1594174,16.64z/data=!4m5!3m4!1s0x12a4a28de444a0f3:0x130b46267890bd36!8m2!3d41.3902138!4d2.1601898?ucbcb=1",
+    "coords": [41.3900849, 2.1594174]
+  },
+  {
+    "title": "Bubble tea",
+    "description": "Чай с тапиокой",
+    "author": "ru_travel_family",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://maps.app.goo.gl/hx8yzU9XtRQqVAHU7",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/jeKy2d62KV6msmVLfBraSQ/ECpoT0FETV4o8B0htnkCCbKni8xc4UssJyGmPV9uXm-XVb5PnAMxCiQ_QtFTKwQ11TOYDCtQUY4eYMQkdrTgnhAQZhaSQkAhwp709E0kMYm-1FSkQfAOXrNPvhCr7kfl/WabDAo9QzQWDgvcIrz0a2R8skqxRKLOz0i6A6safEwQ"
+    ],
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["☕️ Кофейня/кондитерская", "🥢 Азиатская"],
+    "finalMapUrl": "https://www.google.com/maps/place/Barcelona,+Ronda+de+St.+Pere,+%E8%BF%99%E9%87%8CHERE%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+08010/data=!4m2!3m1!1s0x12a4a3e7edc98aa7:0x42fc1d1b35251fbc?utm_source=mstt_1&entry=gps&lucs=karto&g_ep=CAESCjExLjU3LjQ4MDEYACCIJyoFa2FydG8%3D&ucbcb=1",
+    "coords": [41.3910672, 2.1788211]
+  },
+  {
+    "title": "Sips",
+    "description": "Очень красивый бар, входит в число лучших в мире. Красивая подача, вкусно. В выходные могут быть очереди на вход",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://g.page/sips-barcelona?share",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🍷 Бар"],
+    "finalMapUrl": "https://www.google.com/search?q=sips-barcelona&ludocid=7895195600072545562&source=g.page.share&ucbcb=1",
+    "coords": [41.3889187, 2.1568044]
+  },
+  {
+    "title": "El Chigre 1769",
+    "description": "Очень вкусный сидр! Необычная подача. Хлеб с томатами запекают в печи",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/ogbXD7oSUG6kxvuTA",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🍷 Бар"],
+    "finalMapUrl": "https://www.google.com/maps/place/El+Chigre+1769/@41.38368,2.1819275,17.99z/data=!4m5!3m4!1s0x12a4a2fef50d47c7:0xc4be819101d3f1be!8m2!3d41.38377!4d2.1816713?ucbcb=1",
+    "coords": [41.38368, 2.1819275]
+  },
+  {
+    "title": "TWO SCHMUCKS",
+    "description": "Веселые ребята на баре, много постоянников. Очень локал и дружелюбный бар",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/AiiSmMo7Xhd9mcao9",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🍷 Бар"],
+    "finalMapUrl": "https://www.google.com/maps/place/TWO+SCHMUCKS/@41.3831932,2.163439,17z/data=!3m1!4b1!4m5!3m4!1s0x12a4a390c6e992b3:0x5f2c9b18def62c4c!8m2!3d41.3831899!4d2.1652514?ucbcb=1",
+    "coords": [41.3831932, 2.163439]
+  },
+  {
+    "title": "14 De La Rosa",
+    "description": "Красивый небольшой бар с хорошими коктейлями. На баре можно попросить не только хлеб с томатами, но и салат могут сделать",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://g.page/14-de-la-rosa?share",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🍷 Бар"],
+    "finalMapUrl": "https://www.google.com/search?q=14-de-la-rosa&ludocid=8088707594649272438&source=g.page.share&ucbcb=1",
+    "coords": [41.3993139, 2.1597516]
+  },
+  {
+    "title": "CaféPendiente Brunch & Drinks",
+    "description": "Заказываю в Глово с бесплатной доставкой. Порции огромные и недорогие. Бранчи только до 5. Кофе не спешалти, подача своеобразная",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://g.page/cafependientebrunch?share",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🍳 Завтраки"],
+    "finalMapUrl": "https://www.google.com/search?q=cafependientebrunch&ludocid=6074341875240124241&source=g.page.share&ucbcb=1",
+    "coords": [41.3911375, 2.1546303]
+  },
+  {
+    "title": "La PAPA",
+    "description": "Очень стильные ребята с красивой подачей. Огромные и красивые тосты, спешалти кофе и зерна. Есть красивая веранда с каминами",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/HP23Qyia4rPHzR2f7",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🍳 Завтраки"],
+    "finalMapUrl": "https://www.google.com/maps/place/LA+PAPA/@41.3908763,2.1571172,16.89z/data=!4m5!3m4!1s0x12a4a305be91279d:0x9e2c85b6c5b6c145!8m2!3d41.3898635!4d2.157703?hl=ru&ucbcb=1",
+    "coords": [41.3908763, 2.1571172]
+  },
+  {
+    "title": "Billy Brunch & Garden",
+    "description": "Большое кол-во завтраков, спешалти кофе. Есть садик с курочками и кошкой, которая любит посидеть на коленях у посетителей :)",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/kcPpVRXfBBjzyVUk7",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🍳 Завтраки"],
+    "finalMapUrl": "https://www.google.com/maps/place/Billy+Brunch+%26+Garden/@41.3882462,2.1593806,17.66z/data=!4m5!3m4!1s0x12a4a37172a538d5:0x37edde91aa4bfcda!8m2!3d41.387054!4d2.1592414?hl=ru&ucbcb=1",
+    "coords": [41.3882462, 2.1593806]
+  },
+  {
+    "title": "The Hardware Société Barcelona",
+    "description": "Неплохой кофе, большой выбор завтраков. Есть крытая веранда",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/MHKgq5hDjgb7NMpy5",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🍳 Завтраки"],
+    "finalMapUrl": "https://www.google.com/maps/place/The+Hardware+Soci%C3%A9t%C3%A9+Barcelona/@41.3909898,2.153957,16.35z/data=!3m1!5s0x12a4a28e5ce5bc2f:0x76a88c246c579fbc!4m5!3m4!1s0x12a4a32d55d7fd47:0xa2978f67efcb04b8!8m2!3d41.3895146!4d2.1589117?ucbcb=1",
+    "coords": [41.3909898, 2.153957]
+  },
+  {
+    "title": "Hammock Juice Station",
+    "description": "Можно взять сырники:) Но они на любителя, не совсем из творога как будто. Можно качаться в гамаках",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://g.page/hammockjuicestation?share",
+    "extraGrade": 5,
+    "finalMapUrl": "https://www.google.com/search?q=hammockjuicestation&ludocid=2787110035863533044&source=g.page.share&ucbcb=1",
+    "coords": [41.3971881, 2.1671841]
+  },
+  {
+    "title": "Satan's Casa Bonay",
+    "description": "ООООчень красивая кофейня при отеле. Можно купить хороший кофе. Завтраков нет, только десерты",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/TbofPasDgm4iS8Mf7",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/mh2I2JSTWRtPNcDN_o9haA/l3_PuTFGViRHo2dg0AwYZf0SoCG0LQBciwHN-z9SRNeQsTCT-fDEGxIyVIA_6ujXCwt6ymvT_HGXZ90Mio13Vb7qmCSdpVFxUY9h22C-1tk/Qjng_YiafWlzj84YyJhR7Orot5AdKvnusU0Vy95suNs"
+    ],
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["☕️ Кофейня/кондитерская"],
+    "finalMapUrl": "https://www.google.com/maps/place/Satan%27s+Casa+Bonay/@41.393599,2.1745026,18.03z/data=!4m5!3m4!1s0x12a4a2ef7c22b1af:0xecdad16457f744c!8m2!3d41.3935991!4d2.1742692?ucbcb=1",
+    "coords": [41.393599, 2.1745026]
+  },
+  {
+    "title": "Morrow Coffee",
+    "description": "Спешалти кофейня, есть тосты, больших завтраков нет.",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://g.page/morrowcoffee?share",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/HetAvyILqWnWR3CKl6rkPg/U4tjTB2lMwJQrf_BiZOv9tww3iENA2iB4KLorAdOsmFkI1HYIKj1zAKsymu8TuLo-P7Z9rvYniK_Es7mbSirJBnwKoc3NQcVi3V5DN-iG4g/2-TnSKAoUryf2QlKoIUORtogoqMRBObx9XA7M96W9so"
+    ],
+    "extraGrade": 4,
+    "extraKitchenOrFormat": ["☕️ Кофейня/кондитерская"],
+    "finalMapUrl": "https://www.google.com/search?q=morrowcoffee&ludocid=2517138476175476848&source=g.page.share&ucbcb=1",
+    "coords": [41.3771887, 2.1512728]
+  },
+  {
+    "title": "Nomad Coffee - Lab & Shop",
+    "description": "Эти ребята не нуждаются в представлении. У них лучший кофе в барсе, можно купить зерна",
+    "author": "vreutskiy",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/A6AqUf7nM8m2avY26",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/ruqhyWUq3kCo-Bpj3ll2Og/D8CxACbb1nx2pef3cfZrDDmvhylEx7tZjoYkERJ4CF4wJAyKsmPYLUGBm2spldEJ35kBhBxH-ENulhFdyxhRcAAOmzfjTDiwqPBZcEVgVyc/s0mQfcrGeH_iLTDx0JRFEmiFMThm3TRHPO5Y1YIlM1w"
+    ],
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["☕️ Кофейня/кондитерская"],
+    "finalMapUrl": "https://www.google.com/maps/place/Nomad+Coffee+-+Lab+%26+Shop/@41.3904543,2.1758289,16.15z/data=!4m5!3m4!1s0x0:0xaca3bd2eb93f1f15!8m2!3d41.3889197!4d2.1770404?ucbcb=1",
+    "coords": [41.3904543, 2.1758289]
+  },
+  {
+    "title": "Wenzhou II",
+    "description": "Рамены, супы, курочка в кисло-сладком соусе и тд. Большие порции и дешево",
+    "author": "loverinovich",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://maps.app.goo.gl/LBAoAVnvav3EqnfMA?g_st=it",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🥢 Азиатская"],
+    "finalMapUrl": "https://www.google.com/maps?q=Wenzhou+II,+Carrer+d%27Al%C3%AD+Bei,+71,+08013+Barcelona&hl=ru-RU&gl=ru&entry=gps&lucs=karto&g_ep=CAISBjYuNDQuNBgAIKzfASoFa2FydG8%3D&g_st=it&ucbcb=1",
+    "coords": [41.3939294, 2.1809726]
+  },
+  {
+    "title": "Acero Burgers",
+    "description": "Это самые вкусные бургеры в Барселоне! Можно смело брать любой и точно не прогадаешь.",
+    "author": "loverinovich",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://maps.app.goo.gl/qvY2SxeuaiZiXeAw9?g_st=it",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["👨‍🍳 Гастробар"],
+    "finalMapUrl": "https://www.google.com/maps?q=Acero+Street+Flavors+-+Burgers+%26+Sandwiches,+Carrer+de+l%27Espaseria,+10,+08003+Barcelona&hl=ru-RU&gl=ru&entry=gps&lucs=karto&g_ep=CAISBjYuNDQuNBgAIKzfASoFa2FydG8%3D&g_st=it&ucbcb=1",
+    "coords": [41.3832517, 2.1823326]
+  },
+  {
+    "title": "Macchina Pasta Bar",
+    "description": "Привычный всем фаст-фуд, только с пастой. Сам выбираешь вид пасты и соус, готовят быстро и прямо при тебе. ",
+    "author": "loverinovich",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://maps.app.goo.gl/jHeGf8Yo5URRGSX19?g_st=it",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🇮🇹 Итальянская"],
+    "finalMapUrl": "https://www.google.com/maps?q=Macchina+Pasta+Bar,+C.+de+Balmes,+12,+08007+Barcelona&hl=ru-RU&gl=ru&entry=gps&lucs=karto&g_ep=CAISBjYuNDQuNBgAIKzfASoFa2FydG8%3D&g_st=it&ucbcb=1",
+    "coords": [41.386431, 2.1667464]
+  },
+  {
+    "title": "NAP",
+    "description": "пицца по всем правилам. Самая бюджетная стоит 5 евро.",
+    "author": "loverinovich",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://maps.app.goo.gl/casLwpiNipR73ezv5?g_st=it",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🇮🇹 Итальянская"],
+    "finalMapUrl": "https://www.google.com/maps?q=NAP+Antic,+Av.+de+Francesc+Camb%C3%B3,+30,+08003+Barcelona&hl=ru-RU&gl=ru&entry=gps&lucs=karto&g_ep=CAISBjYuNDQuNBgAIKzfASoFa2FydG8%3D&g_st=it&ucbcb=1",
+    "coords": [41.3869062, 2.1788451]
+  },
+  {
+    "title": "半仙豆夫Chinese Tofu Magician",
+    "description": "Чай с тофу, похоже на бабл чай. Сверху еще кладут три тофу-шарика, выглядит очень необычно и безумно вкусно",
+    "author": "loverinovich",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://maps.app.goo.gl/zPgEzCZpZkxJ3x5R7?g_st=it",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🥢 Азиатская", "☕️ Кофейня/кондитерская"],
+    "finalMapUrl": "https://www.google.com/maps?q=Barcelona,+C.+del+Consell+de+Cent,+%E5%8D%8A%E4%BB%99%E8%B1%86%E5%A4%ABChinese+Tofu+Magician%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+08009&hl=ru-RU&gl=ru&entry=gps&lucs=karto&g_ep=CAISBjYuNDQuNBgAIKzfASoFa2FydG8%3D&g_st=it&ucbcb=1",
+    "coords": [41.3945831, 2.1698936]
+  },
+  {
+    "title": "Kinza",
+    "description": "Борщ, шашлык и грузинское вино! Отлично согревает душу. Ценник высоковат правда…",
+    "author": "loverinovich",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://maps.app.goo.gl/fLo84s3yCncGXNeL6?g_st=it",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🌯 Ближневосточная", "🇷🇺 Российская"],
+    "finalMapUrl": "https://www.google.com/maps?q=Kinza,+Carrer+d%27Aribau,+179,+08036+Barcelona&hl=ru-RU&gl=ru&entry=gps&lucs=karto&g_ep=CAISBjYuNDQuNBgAIKzfASoFa2FydG8%3D&g_st=it&ucbcb=1",
+    "coords": [41.3939634, 2.151801]
+  },
+  {
+    "title": "chök - Carme",
+    "description": "Если будете проходить мимо, обязательно попробуйте их кексы.",
+    "author": "loverinovich",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://maps.app.goo.gl/uev9v6WqQzH6jN4X9?g_st=it",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["☕️ Кофейня/кондитерская"],
+    "finalMapUrl": "https://www.google.com/maps?q=ch%C3%B6k+-+Carme,+Carrer+del+Carme,+3,+08001+Barcelona&hl=ru-RU&gl=ru&entry=gps&lucs=karto&g_ep=CAISBjYuNDQuNBgAIKzfASoFa2FydG8%3D&g_st=it&ucbcb=1",
+    "coords": [41.382689, 2.171382]
+  },
+  {
+    "title": "Boldu",
+    "description": "Очень вкусные пончики в виде звездочек. Множество вкусов и огромное количество крема внутри! ﻿",
+    "author": "loverinovich",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://maps.app.goo.gl/m6e8orSvRyyNzzfs8?g_st=it",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["☕️ Кофейня/кондитерская"],
+    "finalMapUrl": "https://www.google.com/maps?q=Bold%C3%BA,+Carrer+del+Rossell%C3%B3,+253,+08008+Barcelona&hl=ru-RU&gl=ru&entry=gps&lucs=karto&g_ep=CAISBjYuNDQuNBgAIKzfASoFa2FydG8%3D&g_st=it&ucbcb=1",
+    "coords": [41.3951179, 2.1595368]
+  },
+  {
+    "title": "Mustafa's Gemüse Kebap ",
+    "description": "Для всех поклонников кебаба это одно из лучших мест! ",
+    "author": "loverinovich",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://maps.app.goo.gl/4TPRcz1i6rCnMrso6?g_st=it",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🌯 Ближневосточная"],
+    "finalMapUrl": "https://www.google.com/maps?q=Mustafa%27s+Gem%C3%BCse+Kebap,+Carrer+Nou+de+la+Rambla,+3-5,+08001+Barcelona&hl=ru-RU&gl=ru&entry=gps&lucs=karto&g_ep=CAISBjYuNDQuNBgAIKzfASoFa2FydG8%3D&g_st=it&ucbcb=1",
+    "coords": [41.3791062, 2.1743425]
+  },
+  {
+    "title": "The Quick Greek Pita Gyros Gòtic",
+    "description": "Греческий фаст-фуд, советую взять плату вегги и получить удовольствие.(7€)",
+    "author": "loverinovich",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://maps.app.goo.gl/Q6qViSbxQSCiodRm7?g_st=it",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🌯 Ближневосточная"],
+    "finalMapUrl": "https://www.google.com/maps?q=The+Quick+Greek,+Carrer+dels+Escudellers,+42,+08002+Barcelona&hl=ru-RU&gl=ru&entry=gps&lucs=karto&g_ep=CAISBjYuNDQuNBgAIKzfASoFa2FydG8%3D&g_st=it&ucbcb=1",
+    "coords": [41.38031, 2.1773103]
+  },
+  {
+    "title": "Xurreria",
+    "description": "Легендарное место, постоянно вижу там фотографирующихся туристов! 4,5€ порция с горячим шоколадом.",
+    "author": "loverinovich",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://maps.app.goo.gl/Q52HdmYVRMDTSHwu6?g_st=it",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["☕️ Кофейня/кондитерская"],
+    "finalMapUrl": "https://www.google.com/maps?q=Xurreria,+Baixos,+Carrer+dels+Banys+Nous,+8,+08002+Barcelona&hl=ru-RU&gl=ru&entry=gps&lucs=karto&g_ep=CAISBjYuNDQuNBgAIKzfASoFa2FydG8%3D&g_st=it&ucbcb=1",
+    "coords": [41.3822305, 2.1751696]
+  },
+  {
+    "title": "Contigo",
+    "description": "Классное небольшое кафе в El Born. Есть комплексное меню за 11 евро, вкусный кофе, потрясающая выпечка, милейший персонал. Хожу к ним уже два года :) ",
+    "author": "alpha_crucis",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/mrTrqjMai2Z1C38c9",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🥬 Здоровая еда", "🍳 Завтраки"],
+    "finalMapUrl": "https://www.google.com/maps/place/CONTIGO+CAFE/@41.38691,2.1771574,19z/data=!4m5!3m4!1s0x12a4a396ebe2c5cb:0x61918dff35684206!8m2!3d41.38691!4d2.17772?coh=164777&entry=tt&ucbcb=1",
+    "coords": [41.38691, 2.1771574]
+  },
+  {
+    "title": "Aguaribay ",
+    "description": "Вкуснейший вегетарианский ресторан в Побленоу. Комплексное меню. Голодными не останутся даже мясоеды. ",
+    "author": "alpha_crucis",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "Carrer del Taulat, 95 08005 Barcelona Spain",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🥬 Здоровая еда"],
+    "coords": [41.3991215, 2.2029536]
+  },
+  {
+    "title": "El Petit Príncipe ",
+    "description": "Очень вкусная овсянка, и большой выбор завтраков, с душевным персоналом, и приятным погружением в мир сказки «Маленький принц»",
+    "author": "nocryporfavor",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "Gran Via de les Corts Catalanes, 677, 08013 Barcelona",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["☕️ Кофейня/кондитерская", "🍳 Завтраки"],
+    "coords": [41.3964218, 2.1748252]
+  },
+  {
+    "title": "Casa Vive",
+    "description": "Очень вкусные пирожные, кондитерская. ",
+    "author": "Lena_ladnaya",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "Sans, 74; Rbla. Catalunya, 58",
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/WQM_cVEevorJ5N4u-mSpMA/t_AvHXgNf2qsCjvyaWLXnOgmTMNkv2lOqjwIfQ5GKa9VSDOUph5v8Qse9VYUv32gQ_vKQSvxE3YK4yFnZ08wmwaxLRmORmhOGAEblp7LPRo/Rc2b76XDP-jqPrRPSgApzjmuJkHlImaxIIkQOCFwPFc",
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/UoOIKyP68o9_Shpi3MvVgQ/6uO-0jgFmeh4QJa_dz3tRP5YKy4xGwmajO6L6JZzP7oBKah9_x3enPM96ukKHxz9ng3rcZwMteBONuIFTe2BkrQlJRQCokmRFN_b_pagORk/8j1uFrMOEuOjHFtzJicXUajKpVL7L0syEolV4ZT8JY0",
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/faNfkBvdDdXujsBH9XSb8Q/y4EpUd8FdmVLfDs5jsf5Gmh-TZEoCKMWxuZVd1_HYrz_DJgJxw5Gny0wbmByGot3z2Kp5vSJZRDacWj5EEZmKYHSsTCgKwphPsYpRV2MPrg/OgYS-Yq86h6qoDF_9d1fSyJXcOAJ3v7aAEPIS9yqxBo"
+    ],
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["☕️ Кофейня/кондитерская"],
+    "coords": [41.3914301, 2.1354757]
+  },
+  {
+    "title": "Бар Хемингуэй",
+    "description": "Стабильно хороший бар для попить вкусных коктейлей и послушать рок 70-80-90-00 :)",
+    "author": "Kseniya R",
+    "categories": ["🍩 Поесть и выпить"],
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["🍷 Бар"],
+    "coords": [41.3890874, 2.15263]
+  },
+  {
+    "title": "The Miners",
+    "description": "1.Вкусный кофе\n2. Кажется важным поддерживать бизнес русскоговорящего сообществв",
+    "author": "Zen_Zoo",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://maps.app.goo.gl/3a38pY2ZKnNTDaRK8?g_st=ic",
+    "extraGrade": 5,
+    "extraKitchenOrFormat": ["☕️ Кофейня/кондитерская"],
+    "finalMapUrl": "https://www.google.com/maps?q=The+Miners+Coffee+Rambla+Poblenou,+Rambla+del+Poblenou,+107,+Bajo+1,+08005+Barcelona&hl=en-US&gl=es&entry=gps&g_ep=CAISBjYuNDguMRgAIKzfAUICRVM%3D&g_st=ic&ucbcb=1",
+    "coords": [41.4029187, 2.1985535]
+  },
+  {
+    "title": "Caj Chai",
+    "description": "Чайная",
+    "author": "Pippa_jenny",
+    "categories": ["🍩 Поесть и выпить"],
+    "mapUrl": "https://goo.gl/maps/M3tdExyiU52fkJ8f9",
+    "extraGrade": 4,
+    "extraKitchenOrFormat": ["☕️ Кофейня/кондитерская"],
+    "finalMapUrl": "https://www.google.es/maps/place/Caj+Chai/@41.3828278,2.1733873,17z/data=!3m1!4b1!4m5!3m4!1s0x12a4a2f83695ee9f:0x34df835a71192f5d!8m2!3d41.3828278!4d2.175576?hl=ru&coh=164777&entry=tt&ucbcb=1",
+    "coords": [41.3828278, 2.1733873]
+  },
+  {
+    "title": "Cacho",
+    "description": "Завтраки, ланчи и хорошая музыка",
+    "author": "aamik",
+    "categories": ["🍩 Поесть и выпить"],
+    "extraGrade": 4,
+    "extraKitchenOrFormat": ["🍳 Завтраки"],
+    "coords": [41.3930932, 2.1888272]
+  },
+  {
+    "title": "Развалины старого Ибирийского замка",
+    "description": "Развалины старого Ибирийского замка, а с него открывается шикарный вид.",
+    "author": "ru_travel_family",
+    "categories": ["📸 Локации"],
+    "mapUrl": "https://maps.app.goo.gl/RTTkfag2gA6vLAdj9",
+    "coords": [41.5518273, 2.1155787],
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/ERj4GdGHZvdbNusTfV9J_w/Z5v34lo-wId3XLTqCRIZIM2dUY3Pu4Zy0AQbdH3ZeE8rPv7sPo8l7kVlYVYPvZtyBbfV2xNr9GMkrU2S2qmKKSg9FL853aee9DLpDPJSzf_g-3a_xMcwCUzo2MJ15rwn/0JTPvNRKQqwNdAvLUHVyBWvI4RXtzeW84qaNnYArDxk"
+    ],
+    "extraGrade": 5
+  },
+  {
+    "title": "La Nostra Ciutat",
+    "description": "Сувенирный магазин.\nКрасивые и стильные вещи с душой. Есть  посуда, серебряные украшения, носки, канцелярия, крутые постеры, шопперы, брелоки и ещё масса всего. Дарить не стыдно, передаривать не хочется. Минус: не очень дёшево. Оценка в 4 звезды, собственно, из-за цены",
+    "author": "preguntasproblemas",
+    "categories": ["🛍 Магазины и скидки"],
+    "mapUrl": "https://www.google.com/maps/place/La+Nostra+Ciutat,+Carrer+del+Pi,+11,+08002+Barcelona/@41.3835904,2.1739268,13z/data=!4m6!3m5!1s0x12a4a2f77a10099d:0xfbc2ca9b4b2331e8!8m2!3d41.3835904!4d2.1739268!16s%2Fg%2F11c5_ndqt0?hl=ru-es",
+    "coords": [41.3835904, 2.1739268],
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/E0EIWNdDumEBEBrLTznXhQ/ohNPpdxQflnUS9YeynGAMn98S_t-n78hBNHh-PtXk8tgJEXLooqheMN5Vn16Q6oKIBVJxbJCEciQXzt3ZbuNQD4ui-FhSxzxrW0DEIStWFfggARcyWGMX8pXhpFJjYF0aPOhxGNy5ziP6i3pZPSRTw/M667G3_NWXKnc-S8DFZsb-sZeXaWCY5DEWTW58YoqZg"
+    ],
+    "extraGrade": 4
+  },
+  {
+    "title": "Holmesplace. Фитнес с коворкингом",
+    "description": "Коворкинг с бассейном! За 90 евро в месяц.\nНаходится на URQUINAONA\nhttps://www.holmesplace.com/es/es/clubes/urquinaona",
+    "author": "nuolka",
+    "categories": ["💼 Для работы", "🏃‍♀️ Для спорта"],
+    "mapUrl": "https://www.google.com/maps/place/Holmes+Place/@41.390262,2.1725093,17.4z/data=!4m5!3m4!1s0x12a4a2f01d0e5a47:0x2ebe3fbe8f3a7b34!8m2!3d41.3902669!4d2.1738603",
+    "coords": [41.390262, 2.1725093],
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/g3G67mxJTOVtG8lxIn5QNg/qyA98uKl8k1YgHLbngIiVr59CqJurmmBuvHEH1m_arRNjd5FDck_AmU6D9nCgBALsN_g61zXL3YMWOxDWK9s3fyiRIkyf7R-YBlw0ksDNVHy31fwczqzr8GRtmB6MAY_/sWjM-62-a25f0YIL6K6mFWCPytVcVvMUvr5HgW9KDIw",
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/2tpz_sBOAs2UiuzDo6zD7Q/iOykpuzY-lDEx27FJQRCPJRiju5mRYBDyFbyIwMb6zQMYws2muUPAvyiRNBVhgo8GtlJqOvZr0QgjNhkz3G7OZPhu512TrnPD9Z2wyxhLSsQBOxvqd4xYYBqd3j9MGi9/Y0eHmtqD2lXYEtKyX3HHbjo8ygBZUhYp8gAGzURwVCI"
+    ],
+    "extraGrade": 5
+  },
+  {
+    "title": "Flor de Barcelona",
+    "description": "Аутентичный сувенирный магазин, где все вещи задизайнены и произведены каталонскими мастерами. Прекрасное место если вы хотите увезти что-то вещественное из города, но не готовы покупать китайские сувениры в пакистанских лавках.\n\nКак можно понять из названия, основным элементом мерча является один из главных символов Барселоны, так называемый \"Барселонский цветок\" – простая форма, созданная когда-то Жозепом Пуч и Кадафалком (одним из главных представителей местного модернизма и \"конкурентом\" Гауди) для дома Аматлье (того самого, который соседствует с домом Батльо на Пассейж де Грасиа).\n\nИз основных форм там есть: кружки, шопперы, передники, футболки, худи и магниты. Но ассортимент время от времени меняется, так что можно наведываться и находить что-то новое.",
+    "author": "vreutskiy",
+    "categories": ["🛍 Магазины и скидки", "🎭 Культура"],
+    "mapUrl": "https://g.page/flordebarcelonastore?share",
+    "coords": [41.3850737, 2.1792624],
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/dQTA23QmlZkdxS4Qyeev4Q/MiYqtSuE9sr3SrDSgcIeRAdWYu3tyvkdaF05gBbE1hiEFRxqDkvlBmC5uRW3OKWJUIHCOpSpUAi6z9we_yps95hnPIACQGR7Qv4UCWX1eVbGR8O3u3YMp6rbTQRs7_2T/lmQMvuZt9Eswr7xjW102EUhDJUSbQGtXtJtT9Om0WsY"
+    ],
+    "extraGrade": 5
+  },
+  {
+    "title": "Muhba Turo de la Rovira",
+    "description": "Смотровая площадка 360 градусов на всю Барселону ",
+    "author": "Alexander_09_08",
+    "categories": ["🎭 Культура", "📸 Локации"],
+    "mapUrl": "Carrer de Marià Labèrnia, s/n, 08032 Barcelona",
+    "coords": [41.4194856, 2.1615117],
+    "extraGrade": 5
+  },
+  {
+    "title": "Смотровая площадка / Бункер El Carmel",
+    "description": "Смотровая площадка, немного диковатая, на бесплатная и доступна круглосуточно. Открывается вид на Барселону и море, а также на часть города, которая скрыта за холмом. Популярна среди молодежи, ближе к вечеру сюда приходит много людей посмотреть на заходящее солнце и краски, которые оно оставляет на крышах Барселоны.\n",
+    "author": "SKUSKAR",
+    "categories": ["📸 Локации"],
+    "mapUrl": "https://maps.app.goo.gl/w8j6VA44gE5ALshR6?g_st=ic",
+    "coords": [41.4193003, 2.1618259],
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/ybQWgM-3Th4L4CmzNTRFCw/gy_Jmg-xG9GxxqI5o1omr04dR_-VUxsrFVrpMnE7uDGJ6DZwTjf2E0CrvdC4LNnbUXXLRwsrXEH1R9ZDsHnbPih4pnav8EhoFWHKM0eUKum_XrIvnXpHdlMvVhQgnwDrSmui90gukCzZQYphvBxTvw/guR3OeDi0XDqr8P5RWSZrEDDNXmD17iMko5x3PSGWBE",
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/Blsfyy30YXyDSTC-AqE-Zw/de3BhS_kfKt-S4bjy-e_m5KWrRDtv5rG7TGIEFpG0_eBNGjG1_wU-v9YWo-7X4qJbttx4k054k29ZzzqLeGTV2u6cA0Xt46IuVGDE29L4sFc5_Az-YPg6V41noysttcziCsuL4NUcbCfmE5jCVCrJg/zvAs43MuOd-qwGi23jnYAnZ_YdwCcRAbIGoYTW2ySDY",
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/5ZXr0t4a7gVgvpdaRk9y2g/IocIIiP0lnYx_JUvZSqTLCzG8xIs9qpMDGtaF5mBKFTVQcF9GF6orWzfq4Vil-XJaGFfZztSI3fYZVd93DRXPpyLHxvRgD9vPnIKfzlsdnnd9N3Rv5Os1YBxBGoi8s6kg3erEZxBymV5Vo7PIBCdnw/YPsTiBMv_ppXThMgPw9rc2MFB5jqcgxffJil7IDYhGo",
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/HltoAm2zKT0JEvqNrm_n-g/z-g_Acj52uI-uAibhQaVyrsHwW0W-5QzlxmEWdpmL3M0uRf4hF0YK1-F5fcyWx4pSQaqvlpWjsuqDSfdZAUzUphreMvv3WgoscATy81WGXMEyHSls_tWYTDkPulzFPOwxlPVb82j01hnacKA9NbgiQ/p50vcE3pY98G-C6WSxrR9t5vXGdi2mMXpc_BUqDbw3s",
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/BlkE5pqF6KsPSGouC5Ho_w/-aJ-gUiB42cnVZHli1bgbf4ZjQHjhdgMq5E6Hd2Pq8pgOs0g_4YVoW2LwbE3vv636EpwRZPNMNWApeTFp53DjKD30XDog9xljz9AdYfCeRAPbbTHodO_8Aw0xVnmYTW9_rrt2CQgeXA2YwL6w3mtuA/aIsphRO3rZnFBcKuRldC5TsqCExPQl2phJUMxA0q1Ak"
+    ],
+    "extraGrade": 4
+  },
+  {
+    "title": "COSMOCAIXA",
+    "description": "Шикарный музей. Экспериментаниум на его фоне грусть и печаль. На наш взгляд и Tom Tits Experiment, проигрывает Cosmocaixa. С детьми рекомендую. ",
+    "author": "ru_travel_family",
+    "categories": ["🎭 Культура"],
+    "mapUrl": "https://cosmocaixa.org/es/cosmocaixa-barcelona",
+    "coords": [41.4131805, 2.131123],
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/ZvHltNcs1rhzD_zuYdlAvg/UdB1mTyBN-u8ihRR-_lShnFmVUjVgc2hNl17sCxj1hhaAuvMK6jKyXLwKONtAODbeWV5u6EmFf7E6hElwCHHxFH1DQdUB1voCobZacLo0DhdPRw0DoQer0Brz2sIqlTW/9aBonk4xUOQGJtZEl7Fj9vT9Pz15jPRhxKEseFtWzLw"
+    ],
+    "extraGrade": 5
+  },
+  {
+    "title": "Outlet de Vins",
+    "description": "Магазин со скидками на вино из разных стран. Скидки реальные!",
+    "author": "julia_sergina",
+    "categories": ["🛍 Магазины и скидки"],
+    "mapUrl": "https://goo.gl/maps/XqRak4GyCXBkdYVn9",
+    "coords": [41.3900793, 2.150045],
+    "extraGrade": 5
+  },
+  {
+    "title": "The Social Hub",
+    "description": "Коворкинг, фитнес-клуб, бассейн, терраса с шезлонгами, кафе, бар и отель - всё в одном очень модном и огромном здании в районе Sant Martí. 100e в месяц. Рекомендую от души. ",
+    "author": "alpha_crucis",
+    "categories": ["💼 Для работы", "🏃‍♀️ Для спорта"],
+    "mapUrl": "Carrer de Cristòbal de Moura, 43 08019 Barcelona Spain",
+    "coords": [41.4096942, 2.2019199],
+    "photos": [
+      "https://v5.airtableusercontent.com/v1/15/15/1675728000000/dWSJEz-EmYJD1H1RG3nKzw/46WcYKPk91BfaA0w96Z5jh6OrOCPvmsSAS7PtYntU57JRwQ_9MWWrdmpMp2JwKHuHYsDc66wrUUFL8zhy1Lh39HPwrAm8CHFp7JzzDNauxiC-KpYTDycL4IemsNAxZgn23Pmy3YHZU-bpFOoAV3QTQ/TqROZDmj4Kg-2Dlr99cm6jAlgsYz4QbzVLI6F506R2w"
+    ],
+    "extraGrade": 5
+  },
+  {
+    "title": "Ламинирование, коррекция, покраска бровей и ресниц",
+    "description": "Рекомендую именно Анну, потому что только она может сделать идеальные бровки и реснички. Всегда качественная и аккуратная работа, строго в соответствии с пожеланиями клиента. А еще Анна очень милая и приятная девушка :) \nЕе инстаграм annaloza_lashes\n",
+    "author": "alpha_crucis",
+    "categories": ["🔧 Услуги"],
+    "mapUrl": "Carrer de Mallorca, 626 Barcelona, Spain",
+    "coords": [41.4122971, 2.1853462],
+    "extraGrade": 5
+  },
+  {
+    "title": "Les Galeries Maldà",
+    "description": "ТЦ для фанатов и гиков. Из того, что мы видели там есть магазины для фанатов Поттера, Властелина Колец, Наруто, Dragon Ball, магазины с настолками, магазины для косплейщиков и многие другие",
+    "author": "memchenko",
+    "categories": ["🛍 Магазины и скидки"],
+    "mapUrl": "https://maps.app.goo.gl/xPVEQejkjW1KNJFT7",
+    "coords": [41.3827378, 2.1736068],
+    "extraGrade": 5
+  },
+  {
+    "title": "Музей мореходства Барселоны",
+    "description": "На рождественские дни организовал специальное маленькое рождественское чудо. Превратили музей в мини сад рождественского света. Не бесплатно, конечно. За 12 евро (вход с 18 часов) можно осмотреть большую часть музея в приглушенном разноцветном свете, послушать рождественский оркестр, и даже поучаствовать в исполнении рождественской мелодии. А самое главное - подняться наверх, в закрытый остальное время маленький сад, полный огнями, точками для фотографирования, и окунуться в волшебную атмосферу. Стоит эта миниэкскурсия 12 евро, или нет, решать вам, но мне понравилось. Одно скажу точно - мероприятие уникально :)",
+    "author": "lena_ladnaya",
+    "categories": ["🎭 Культура"],
+    "mapUrl": "https://maps.app.goo.gl/QoLHG7YSmKvXcBkJ6",
+    "coords": [41.3758504, 2.1761781],
+    "extraGrade": 5
+  }
+]
